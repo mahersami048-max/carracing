@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Highway Rush</string>
+    <string name="game_subtitle">EXTREME RACING</string>
+    <string name="menu_play_game">PLAY GAME</string>
+    <string name="menu_career">CAREER</string>
+    <string name="menu_endless">ENDLESS</string>
+    <string name="menu_garage">GARAGE</string>
+    <string name="menu_settings">SETTINGS</string>
+    <string name="menu_exit">EXIT</string>
+    <string name="cd_steer_left">Steer Left</string>
+    <string name="cd_steer_right">Steer Right</string>
+    <string name="cd_accelerate">Accelerate</string>
+    <string name="cd_brake">Brake</string>
+    <string name="cd_nitro">Nitro Boost</string>
+    <string name="cd_pause">Pause Game</string>
+    <string name="cd_back">Navigate Back</string>
+    <string name="cd_coins">Coins</string>
+    <string name="cd_car_preview">3D Vehicle Preview</string>
+</resources>

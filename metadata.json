@@ -1,0 +1,6 @@
+{
+  "name": "Highway Rush: Extreme Racing",
+  "description": "3D highway car racing game with 6 environments, 6 upgradable vehicles, AI traffic, 4 game modes, 24 career levels, and synthesized racing audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
